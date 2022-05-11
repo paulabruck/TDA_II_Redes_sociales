@@ -9,6 +9,7 @@ import time
 from motifs.load import *
 import networkx as nx
 
+
 CORES = cpu_count()
 
 LOG = logger.Logger(logger.LogLevel.INFO)
