@@ -1,0 +1,472 @@
+ORIGEN,DESTINO,AÑO,TURISMO CON PREVIAJE,TURISMO SIN PREVIAJE
+Mar del plata,Tandil,2020,52,4
+Mar del plata,Pinamar,2020,134,200
+Mar del plata,Partido de la costa,2020,12,800
+Mar del plata,CABA,2020,22,1000
+Mar del plata,Puerto Madryn,2020,200,150
+Mar del plata,Esquel,2020,300,250
+Mar del plata,Colon,2020,56,23
+Mar del plata,Gualeguaychú,2020,22,21
+Mar del plata,Lujan de cuyo,2020,36,1
+Mar del plata,Iguazu,2020,221,80
+Mar del plata,San Martin de los andes,2020,132,33
+Mar del plata,Villa angostura,2020,156,80
+Mar del plata,Bariloche,2020,200,102
+Mar del plata,Ushuaia,2020,98,14
+Tandil,Pinamar,2020,66,44
+Tandil,Partido de la costa,2020,78,56
+Tandil,CABA,2020,55,34
+Tandil,Bariloche,2020,67,3
+Tandil,Bahia Blanca,2020,23,20
+Tandil,Mar del plata,2020,36,33
+Pinamar,Partido de la costa,2020,56,50
+Pinamar,Bahia Blanca,2020,34,14
+Pinamar,CABA,2020,23,44
+Pinamar,Villa Carlos paz,2020,44,2
+Pinamar,Colon,2020,32,11
+Pinamar,Santa Fe Capital,2020,45,3
+CABA,Mar del plata,2020,347,189
+CABA,Brazil,2020,0,150
+CABA,Uruguay,2020,0,200
+CABA,Chile,2020,0,60
+CABA,Estados Unidos,2020,0,221
+CABA,Mexico,2020,0,156
+CABA,Colombia,2020,0,32
+CABA,España,2020,0,22
+CABA,Francia,2020,0,11
+CABA,Reino Unido,2020,0,4
+CABA,Otros,2020,0,60
+Partido de la costa,Santa Fe Capital,2020,23,20
+Partido de la costa,San Martin de los andes,2020,36,33
+Partido de la costa,Bariloche,2020,56,50
+Partido de la costa,Santa Fe Capital,2020,34,14
+Partido de la costa,Salta,2020,23,44
+Partido de la costa,Chapelco,2020,44,2
+Partido de la costa,El calafate,2020,32,11
+Partido de la costa,San Carlos,2020,45,3
+Partido de la costa,San Luis,2020,43,22
+Partido de la costa,San Miguel de Tucuman,2020,33,21
+Partido de la costa,El dorado,2020,23,33
+Partido de la costa,Moises Ville,2020,55,23
+Partido de la costa,Rio Hondo,2020,60,23
+Partido de la costa,Valle Barreal,2020,33,21
+Partido de la costa,Merlo,2020,23,33
+Partido de la costa,humauaca,2020,55,23
+Partido de la costa,Salta,2020,60,23
+Partido de la costa,San Martin de los andes,2020,32,23
+Partido de la costa,Viedma,2020,60,34
+Partido de la costa,Santa Ana,2020,44,32
+Partido de la costa,Uspallata,2020,34,22
+Partido de la costa,Trapiche,2020,40,20
+Partido de la costa,Goya,2020,13,3
+Partido de la costa,Paso de los libres,2020,34,21
+Partido de la costa,Posadas,2020,55,23
+Partido de la costa,Las grutas,2020,34,21
+Partido de la costa,El bolson,2020,78,34
+Partido de la costa,Villa traful,2020,35,22
+Partido de la costa,Santa Rosa,2020,56,33
+Partido de la costa,Termas de Rosario,2020,22,11
+Partido de la costa,Cachi,2020,56,33
+Partido de la costa,Villa Unión,2020,22,11
+Partido de la costa,Salinas Grandes,2020,89,33
+Partido de la costa,Resistencia,2020,112,67
+Partido de la costa,Bariloche,2020,78,22
+Partido de la costa,Villa angostura,2020,33,12
+Partido de la costa,San Juan,2020,22,10
+Bahia Blanca,Tinogasta,2020,33,22
+Bahia Blanca,Puerto Madryn,2020,55,33
+Bahia Blanca,Iguazu,2020,60,31
+Bahia Blanca,Chapelco,2020,45,22
+Bahia Blanca,Bariloche,2020,60,34
+Bahia Blanca,Salta,2020,44,32
+CABA,Tinogasta,2020,34,22
+CABA,Fiambala,2020,40,20
+CABA,Resistencia,2020,13,3
+CABA,Trelew,2020,34,21
+CABA,Puerto Madryn,2020,55,23
+CABA,Esquel,2020,34,21
+CABA,Peninsula Valdez,2020,78,34
+CABA,Villa Carlos paz,2020,35,22
+CABA,Villa general Belgrano,2020,56,33
+CABA,Colon,2020,22,11
+CABA,Iguazu,2020,89,33
+CABA,Bariloche,2020,112,67
+CABA,Ushuaia,2020,78,22
+Tinogasta,Viedma,2020,21,12
+Tinogasta,Santa Ana,2020,54,33
+Tinogasta,Uspallata,2020,65,34
+Tinogasta,Trapiche,2020,54,37
+Tinogasta,Goya,2020,25,19
+Tinogasta,Paso de los libres,2020,54,8
+Tinogasta,Posadas,2020,24,65
+Tinogasta,Las grutas,2020,21,19
+Tinogasta,El bolson,2020,6,2
+Tinogasta,Villa traful,2020,34,21
+Tinogasta,Santa Rosa,2020,56,21
+Tinogasta,Termas de Rosario,2020,56,44
+Tinogasta,Cachi,2020,23,22
+Tinogasta,Villa Unión,2020,34,22
+Tinogasta,Salinas Grandes,2020,25,17
+Tinogasta,Resistencia,2020,45,32
+Tinogasta,Bariloche,2020,23,10
+Tinogasta,Fiambala,2020,45,22
+Tinogasta,Mina clavero,2020,67,23
+Tinogasta,humauaca,2020,54,22
+Tinogasta,Yala,2020,43,22
+Tinogasta,Salinas Grandes,2020,10,4
+Tinogasta,Villa Unión,2020,35,56
+Tinogasta,San Rafael,2020,41,22
+Tinogasta,Termas de Rosario,2020,65,23
+Tinogasta,Cachi,2020,35,15
+Tinogasta,Salta,2020,32,22
+Resistencia,Ushuaia,,43,11
+Resistencia,Trelew,2020,21,20
+Resistencia,Santa Rosa,2020,34,22
+Resistencia,San Martin de los andes,2020,55,21
+Resistencia,Bariloche,2020,67,31
+Trelew,Villa Carlos paz,2020,45,21
+Trelew,Villa general Belgrano,2020,32,11
+Trelew,Iguazu,2020,78,22
+Trelew,Esquel,2020,32,11
+Trelew,Peninsula Valdez,2020,43,22
+Trelew,San Martin de los andes,2020,34,22
+Trelew,Villa angostura,2020,21,12
+Trelew,Villa traful,2020,54,33
+Trelew,Chapelco,2020,65,34
+Trelew,Las grutas,2020,54,37
+Trelew,El bolson,2020,25,19
+Trelew,Bariloche,2020,54,8
+Trelew,Viedma,2020,24,65
+Trelew,El calafate,2020,21,19
+Trelew,Ushuaia,2020,6,2
+Rawson,Villa Carlos paz,2020,34,21
+Rawson,Iguazu,2020,56,21
+Comodoro Rivadavia,Villa Carlos paz,2020,67,21
+Comodoro Rivadavia,Villa general Belgrano,2020,56,11
+Puerto Madryn,Villa Carlos paz,2020,78,21
+Puerto Madryn,Villa general Belgrano,2020,67,33
+Puerto Madryn,Colon,2020,78,22
+Puerto Madryn,Iguazu,2020,89,21
+Puerto Madryn,Bariloche,2020,102,22
+Esquel,Villa Carlos paz,2020,34,22
+Esquel,Villa general Belgrano,2020,45,12
+Esquel,Posadas,2020,67,23
+Esquel,Bariloche,2020,102,78
+Esquel,Salta,2020,112,67
+Esquel,San Juan,2020,78,22
+Peninsula Valdez,Villa Carlos paz,2020,67,21
+Peninsula Valdez,Iguazu,2020,43,21
+Villa Carlos paz,El Colorado,2020,23,34
+Villa Carlos paz,El bolson,2020,67,23
+Villa Carlos paz,Bariloche,2020,111,78
+Villa general Belgrano,Iguazu,2020,87,23
+Villa general Belgrano,San Carlos,2020,45,22
+Mina clavero,El Colorado,2020,34,33
+Goya,Santa Rosa,2020,56,6
+Goya,Ushuaia,2020,65,21
+Goya,Bariloche,2020,89,21
+Paso de los libres,Ushuaia,2020,43,17
+Paso de los libres,San Martin de los andes,2020,78,23
+Paso de los libres,Bariloche,2020,23,21
+Parana,Colon,2020,23,11
+Parana,Gualeguaychú,2020,34,32
+Parana,Concordia,2020,11,21
+Parana,Iguazu,2020,45,21
+Parana,Ushuaia,2020,34,21
+Colon,San Rafael,2020,23,11
+Colon,El calafate,2020,56,44
+Gualeguaychú,Iguazu,2020,23,22
+Gualeguaychú,San luis,2020,34,22
+Concordia,Iguazu,2020,25,17
+Concordia,Ushuaia,2020,45,32
+Concordia,San Miguel de Tucuman,2020,23,10
+Villa escobar,Lujan de cuyo,2020,45,22
+Villa escobar,Cachi,2020,67,23
+El Colorado,Iguazu,2020,54,22
+humauaca,Viedma,2020,21,19
+humauaca,Santa Ana,2020,6,2
+humauaca,Uspallata,2020,34,21
+humauaca,Trapiche,2020,56,21
+humauaca,Goya,2020,67,21
+humauaca,Paso de los libres,2020,56,11
+humauaca,Posadas,2020,78,21
+humauaca,Las grutas,2020,67,33
+humauaca,El bolson,2020,78,22
+humauaca,Villa traful,2020,89,21
+humauaca,Santa Rosa,2020,102,22
+humauaca,Termas de Rosario,2020,34,22
+humauaca,Cachi,2020,45,12
+humauaca,Villa Unión,2020,67,23
+humauaca,Salinas Grandes,2020,102,78
+humauaca,Resistencia,2020,112,67
+humauaca,Bariloche,2020,78,22
+humauaca,Villa angostura,2020,67,21
+humauaca,Ushuaia,2020,43,21
+Yala,Ushuaia,2020,89,34
+Yala,Viedma,2020,76,22
+Yala,Santa Ana,2020,44,21
+Yala,Uspallata,2020,76,43
+Yala,Trapiche,2020,33,21
+Yala,Goya,2020,87,65
+Yala,Paso de los libres,2020,32,11
+Yala,Posadas,2020,65,32
+Yala,Las grutas,2020,32,11
+Yala,El bolson,2020,21,32
+Yala,Villa traful,2020,54,32
+Yala,Santa Rosa,2020,59,21
+Yala,Termas de Rosario,2020,76,32
+Yala,Cachi,2020,33,16
+Yala,Villa Unión,2020,33,21
+Yala,Salinas Grandes,2020,59,37
+Yala,Resistencia,2020,45,22
+Yala,Bariloche,2020,77,43
+Yala,Villa angostura,2020,67,22
+Yala,San Juan,2020,59,21
+Salinas Grandes,Chapelco,2020,76,32
+Salinas Grandes,Las grutas,2020,78,34
+Salinas Grandes,Ushuaia,2020,33,16
+Salinas Grandes,El bolson,2020,33,21
+Salinas Grandes,Bariloche,2020,59,37
+Santa Rosa,San Martin de los andes,2020,45,22
+Santa Rosa,Ushuaia,2020,77,43
+Santa Rosa,Villa angostura,2020,67,22
+Santa Rosa,Villa traful,2020,59,21
+Santa Rosa,Chapelco,2020,76,32
+Santa Rosa,Las grutas,2020,78,34
+Santa Rosa,El bolson,2020,89,34
+Santa Rosa,Bariloche,2020,76,22
+Villa Unión,Ushuaia,2020,44,21
+Villa Unión,Las grutas,2020,76,43
+Villa Unión,El bolson,2020,33,21
+Villa Unión,Bariloche,2020,87,65
+San Rafael,Ushuaia,2020,32,11
+San Rafael,Salta,2020,65,32
+San Rafael,Viedma,2020,32,11
+San Rafael,Santa Ana,2020,21,32
+San Rafael,Uspallata,2020,54,32
+San Rafael,Trapiche,2020,59,21
+San Rafael,Goya,2020,76,32
+San Rafael,Paso de los libres,2020,78,34
+San Rafael,Posadas,2020,76,43
+San Rafael,Las grutas,2020,33,21
+San Rafael,El bolson,2020,87,65
+San Rafael,Villa traful,2020,65,32
+San Rafael,Santa Rosa,2020,32,11
+San Rafael,Termas de Rosario,2020,21,32
+San Rafael,Cachi,2020,54,32
+San Rafael,Villa Unión,2020,76,43
+San Rafael,Salinas Grandes,2020,33,21
+San Rafael,Resistencia,2020,87,65
+San Rafael,Bariloche,2020,21,10
+San Rafael,Villa angostura,2020,43,21
+San Rafael,San Juan,2020,21,10
+Uspallata,Ushuaia,2020,9,4
+Uspallata,San Martin de los andes,2020,54,32
+Uspallata,Villa angostura,2020,65,33
+Uspallata,Villa traful,2020,21,10
+Uspallata,Chapelco,2020,43,21
+Uspallata,Las grutas,2020,56,21
+Uspallata,El bolson,2020,57,32
+Uspallata,Bariloche,2020,78,32
+Lujan de cuyo,Iguazu,2020,65,32
+Iguazu,San Martin de los andes,2020,76,32
+Iguazu,Villa angostura,2020,45,32
+Iguazu,Villa traful,2020,21,8
+Iguazu,Chapelco,2020,34,21
+Iguazu,Las grutas,2020,65,43
+Iguazu,El bolson,2020,34,12
+Iguazu,Bariloche,2020,87,32
+Iguazu,El calafate,2020,76,32
+Iguazu,Ushuaia,2020,87,65
+Santa Ana,Ushuaia,2020,11,8
+Santa Ana,San Martin de los andes,2020,43,21
+Santa Ana,Villa angostura,2020,32,11
+Santa Ana,Villa traful,2020,7,3
+Santa Ana,Chapelco,2020,43,21
+Santa Ana,Las grutas,2020,32,11
+Santa Ana,El bolson,2020,54,32
+Santa Ana,Bariloche,2020,65,21
+Santa Ana,Viedma,2020,32,11
+Santa Ana,San Miguel de Tucuman,2020,43,21
+Posadas,Ushuaia,2020,44,22
+Posadas,El dorado,2020,32,11
+Posadas,San Martin de los andes,2020,21,32
+Posadas,Villa angostura,2020,54,32
+Posadas,Villa traful,2020,21,6
+Posadas,Bariloche,2020,54,32
+San Martin de los andes,San Carlos,2020,54,32
+San Martin de los andes,San Luis,2020,65,21
+El dorado,San Martin de los andes,2020,54,32
+El dorado,Salta,2020,34,21
+San Martin de los andes,Moises Ville,2020,31,20
+San Martin de los andes,Rio Hondo,2020,11,6
+San Martin de los andes,Chapelco,2020,32,11
+San Martin de los andes,Bariloche,2020,54,23
+San Martin de los andes,Santa Fe Capital,2020,32,10
+San Martin de los andes,Ushuaia,2020,43,26
+San Martin de los andes,Cachi,2020,54,21
+San Martin de los andes,Salta,2020,36,17
+San Martin de los andes,San Juan,2020,23,11
+San Martin de los andes,Valle Barreal,2020,54,32
+San Martin de los andes,Merlo,2020,32,16
+San Martin de los andes,Trapiche,2020,43,36
+San Martin de los andes,San Miguel de Tucuman,2020,32,11
+Villa angostura,Chapelco,2020,53,21
+Villa angostura,El calafate,2020,32,25
+Villa angostura,San Carlos,2020,31,45
+Villa angostura,San Luis,2020,30,27
+Villa angostura,San Miguel de Tucuman,2020,12,11
+Villa angostura,El dorado,2020,21,11
+Villa angostura,Moises Ville,2020,54,32
+Villa angostura,Rio Hondo,2020,32,11
+Villa angostura,Santa Fe Capital,2020,45,33
+Villa angostura,Ushuaia,2020,32,11
+Villa angostura,Bariloche,2020,54,32
+Villa angostura,Viedma,2020,46,37
+Villa angostura,Termas de Rosario,2020,42,18
+Villa angostura,Cachi,2020,40,27
+Villa angostura,Salta,2020,21,11
+Villa angostura,San Juan,2020,34,27
+Villa angostura,Valle Barreal,2020,65,28
+Villa angostura,Merlo,2020,17,9
+Villa traful,Ushuaia,2020,21,6
+Villa traful,Chapelco,2020,32,15
+Villa traful,Las grutas,2020,43,21
+Villa traful,El bolson,2020,54,28
+Villa traful,Bariloche,2020,65,23
+Chapelco,Las grutas,2020,43,21
+Chapelco,El bolson,2020,45,22
+Chapelco,Bariloche,2020,12,4
+Chapelco,Termas de Rosario,2020,32,12
+Chapelco,Cachi,2020,43,21
+Chapelco,Salta,2020,65,42
+Chapelco,San Juan,2020,32,11
+Chapelco,Valle Barreal,2020,65,32
+Chapelco,Merlo,2020,32,11
+Chapelco,Trapiche,2020,43,26
+Chapelco,San luis,2020,65,43
+Chapelco,El calafate,2020,32,14
+Chapelco,Santa Fe Capital,2020,54,21
+Chapelco,Moises Ville,2020,21,6
+Chapelco,San Carlos,2020,76,32
+Chapelco,Rio Hondo,2020,31,15
+Chapelco,Ushuaia,2020,43,25
+Chapelco,San Miguel de Tucuman,2020,32,11
+Las grutas,Ushuaia,2020,44,28
+Las grutas,El bolson,2020,32,11
+Las grutas,Bariloche,2020,43,21
+Las grutas,Viedma,2020,32,10
+Las grutas,Termas de Rosario,2020,43,21
+Las grutas,Cachi,2020,54,22
+Las grutas,Salta,2020,43,2
+Las grutas,San Juan,2020,52,31
+Las grutas,Moises Ville,2020,43,16
+Las grutas,San Carlos,2020,54,36
+El bolson,Ushuaia,2020,55,21
+El bolson,Bariloche,2020,43,21
+El bolson,Viedma,2020,51,20
+El bolson,Termas de Rosario,2020,21,13
+El bolson,Cachi,2020,19,21
+El bolson,Salta,2020,28,14
+Bariloche,Viedma,2020,34,12
+Bariloche,Termas de Rosario,2020,52,27
+Bariloche,Cachi,2020,13,5
+Bariloche,Salta,2020,65,32
+Bariloche,San Juan,2020,54,33
+Bariloche,Valle Barreal,2020,67,21
+Bariloche,Merlo,2020,20,18
+Bariloche,Trapiche,2020,43,21
+Bariloche,San luis,2020,87,40
+Bariloche,Santa Fe Capital,2020,45,23
+Bariloche,Moises Ville,2020,76,42
+Bariloche,San Carlos,2020,65,17
+Bariloche,Rio Hondo,2020,24,9
+Bariloche,Ushuaia,2020,32,12
+Bariloche,San Miguel de Tucuman,2020,33,21
+Bariloche,Mar del plata,2020,54,32
+Viedma,Ushuaia,2020,54,3
+Viedma,Termas de Rosario,2020,65,43
+Viedma,Cachi,2020,32,12
+Viedma,Salta,2020,45,23
+Cachi,Ushuaia,2020,22,1
+Cachi,Santa Fe Capital,2020,32,12
+Salta,San Juan,2020,21,18
+Salta,Valle Barreal,2020,53,21
+Salta,Merlo,2020,32,25
+Salta,Santa Fe Capital,2020,31,45
+Salta,Moises Ville,2020,30,27
+Salta,San Carlos,2020,12,11
+San Juan,Ushuaia,2020,65,43
+San Juan,Viedma,2020,32,12
+San Juan,Santa Ana,2020,45,23
+San Juan,Uspallata,2020,20,18
+San Juan,Trapiche,2020,43,21
+San Juan,Goya,2020,87,40
+San Juan,Paso de los libres,2020,45,23
+San Juan,Posadas,2020,76,42
+San Juan,Las grutas,2020,65,17
+San Juan,El bolson,2020,24,9
+San Juan,Villa traful,2020,32,12
+San Juan,Santa Rosa,2020,34,21
+San Juan,Termas de Rosario,2020,31,20
+San Juan,Cachi,2020,11,6
+San Juan,Villa Unión,2020,32,11
+San Juan,Salinas Grandes,2020,54,23
+San Juan,Resistencia,2020,32,10
+San Juan,Bariloche,2020,43,26
+San Juan,Ushuaia,2020,54,21
+San Juan,San Miguel de Tucuman,2020,21,7
+Valle Barreal,El bolson,2020,32,12
+Valle Barreal,Uspallata,2020,21,18
+Valle Barreal,Posadas,2020,53,21
+Valle Barreal,Las grutas,2020,32,25
+Valle Barreal,Salinas Grandes,2020,31,45
+Valle Barreal,Trapiche,2020,30,27
+Valle Barreal,Yala,2020,12,11
+Valle Barreal,Santa Fe Capital,2020,21,11
+Merlo,Moises Ville,2020,54,32
+Merlo,San Carlos,2020,32,11
+San luis,Ushuaia,2020,45,33
+San luis,San Miguel de Tucuman,2020,32,11
+San luis,Mar del plata,2020,54,32
+El calafate,San Miguel de Tucuman,2020,46,37
+Santa Fe Capital,El bolson,2020,32,12
+Santa Fe Capital,Uspallata,2020,21,18
+Santa Fe Capital,Posadas,2020,53,21
+Santa Fe Capital,Las grutas,2020,32,25
+Santa Fe Capital,Salinas Grandes,2020,31,45
+Santa Fe Capital,Trapiche,2020,30,27
+Santa Fe Capital,Yala,2020,12,11
+Santa Fe Capital,Ushuaia,2020,21,11
+Santa Fe Capital,San Miguel de Tucuman,2020,54,32
+Moises Ville,San Carlos,2020,32,11
+Moises Ville,Rio Hondo,2020,45,33
+Moises Ville,Ushuaia,2020,32,11
+Moises Ville,San Miguel de Tucuman,2020,54,32
+San Carlos,Rio Hondo,2020,46,37
+San Carlos,Ushuaia,2020,42,18
+San Carlos,San Miguel de Tucuman,2020,40,27
+Rio Hondo,Ushuaia,2020,21,11
+Rio Hondo,San Miguel de Tucuman,2020,34,27
+Ushuaia,San Miguel de Tucuman,2020,65,28
+Fiambala,Viedma,2020,17,9
+Fiambala,Santa Ana,2020,21,6
+Fiambala,Uspallata,2020,32,15
+Fiambala,Trapiche,2020,43,21
+Fiambala,Goya,2020,21,11
+Fiambala,Paso de los libres,2020,43,21
+Fiambala,Posadas,2020,51,20
+Fiambala,Las grutas,2020,21,13
+Fiambala,El bolson,2020,19,21
+Fiambala,Villa traful,2020,28,14
+Fiambala,Santa Rosa,2020,34,12
+Fiambala,Termas de Rosario,2020,52,27
+Fiambala,Cachi,2020,13,5
+Fiambala,Villa Unión,2020,65,32
+Fiambala,Salinas Grandes,2020,54,33
+Fiambala,Resistencia,2020,67,21
+Fiambala,Bariloche,2020,20,18
+Fiambala,Villa angostura,2020,43,21
+Fiambala,Ushuaia,2020,87,40
+Trapiche,Ushuaia,2020,45,23
+Termas de Rosario,Ushuaia,2020,76,42

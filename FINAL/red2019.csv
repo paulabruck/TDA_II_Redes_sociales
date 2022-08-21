@@ -1,0 +1,268 @@
+ORIGEN,DESTINO,AÑO,PREVIAJE,TURISMO
+Mar del plata,Tandil,2019,NO,4
+Mar del plata,Pinamar,2019,NO,200
+Mar del plata,Partido de la costa,2019,NO,800
+Mar del plata,CABA,2019,NO,1000
+Mar del plata,Resistencia,2019,NO,2
+Mar del plata,Trelew,2019,NO,17
+Mar del plata,Puerto Madryn,2019,NO,150
+Mar del plata,Esquel,2019,NO,250
+Mar del plata,Parana,2019,NO,50
+Mar del plata,Colon,2019,NO,23
+Mar del plata,Gualeguaychú,2019,NO,21
+Mar del plata,San Martin de los andes,2019,NO,23
+Mar del plata,Bariloche,2019,NO,60
+Mar del plata,Ushuaia,2019,NO,14
+Tandil,Pinamar,2019,NO,44
+Tandil,Partido de la costa,2019,NO,56
+Tandil,CABA,2019,NO,34
+Tandil,Bariloche,2019,NO,3
+Tandil,Bahia Blanca,2019,NO,20
+Tandil,Mar del plata,2019,NO,33
+Pinamar,Partido de la costa,2019,NO,50
+Pinamar,Bahia Blanca,2019,NO,14
+Pinamar,CABA,2019,NO,44
+Pinamar,Villa Carlos paz,2019,NO,2
+Pinamar,Colon,2019,NO,11
+Pinamar,Santa Fe Capital,2019,NO,3
+Pinamar,Mar del plata,2019,NO,25
+CABA,Brazil,2019,NO,350
+CABA,Uruguay,2019,NO,550
+CABA,Chile,2019,NO,142
+CABA,Estados Unidos,2019,NO,637
+CABA,Mexico,2019,NO,422
+CABA,Colombia,2019,NO,67
+CABA,España,2019,NO,89
+CABA,Francia,2019,NO,56
+CABA,Reino Unido,2019,NO,33
+CABA,Otros,2019,NO,213
+Partido de la costa,Bahia Blanca,2019,NO,44
+Partido de la costa,CABA,2019,NO,56
+Partido de la costa,Parana,2019,NO,11
+Partido de la costa,Colon,2019,NO,13
+Partido de la costa,Gualeguaychú,2019,NO,4
+Partido de la costa,Concordia,2019,NO,2
+Partido de la costa,Chajari,2019,NO,5
+Partido de la costa,Gualeguay,2019,NO,7
+Bahia Blanca,CABA,2019,NO,76
+Bahia Blanca,Parana,2019,NO,13
+Bahia Blanca,Colon,2019,NO,11
+Bahia Blanca,Gualeguaychú,2019,NO,2
+Bahia Blanca,Concordia,2019,NO,7
+Bahia Blanca,Santa Rosa,2019,NO,34
+Bahia Blanca,Las grutas,2019,NO,26
+Bahia Blanca,El bolson,2019,NO,45
+Bahia Blanca,Bariloche,2019,NO,33
+Bahia Blanca,Viedma,2019,NO,33
+CABA,Puerto Madryn,2019,NO,22
+CABA,Esquel,2019,NO,35
+CABA,Villa Carlos paz,2019,NO,36
+CABA,Villa general Belgrano,2019,NO,67
+CABA,Parana,2019,NO,89
+CABA,Colon,2019,NO,102
+CABA,Gualeguaychú,2019,NO,110
+CABA,Concordia,2019,NO,78
+CABA,Chajari,2019,NO,66
+CABA,Gualeguay,2019,NO,55
+CABA,Santa Rosa,2019,NO,22
+CABA,Iguazu,2019,NO,11
+CABA,San Martin de los andes,2019,NO,46
+CABA,Villa angostura,2019,NO,77
+CABA,Chapelco,2019,NO,55
+CABA,Las grutas,2019,NO,88
+CABA,El bolson,2019,NO,65
+CABA,Bariloche,2019,NO,154
+CABA,Termas de Rosario,2019,NO,57
+CABA,Santa Fe Capital,2019,NO,56
+CABA,Ushuaia,2019,NO,1
+Tinogasta,Fiambala,2019,NO,122
+Tinogasta,Villa Carlos paz,2019,NO,67
+Tinogasta,Villa general Belgrano,2019,NO,55
+Tinogasta,Cosquin,2019,NO,26
+Tinogasta,Mina clavero,2019,NO,12
+Tinogasta,humauaca,2019,NO,23
+Tinogasta,Yala,2019,NO,33
+Tinogasta,Salinas Grandes,2019,NO,55
+Tinogasta,Villa Unión,2019,NO,24
+Tinogasta,San Rafael,2019,NO,2
+Tinogasta,Termas de Rosario,2019,NO,24
+Tinogasta,Cachi,2019,NO,11
+Tinogasta,Salta,2019,NO,45
+Tinogasta,San Juan,2019,NO,12
+Tinogasta,Merlo,2019,NO,33
+Tinogasta,San luis,2019,NO,20
+Tinogasta,San Miguel de Tucuman,2019,NO,77
+Fiambala,Villa Carlos paz,2019,NO,22
+Fiambala,Villa general Belgrano,2019,NO,21
+Fiambala,Cosquin,2019,NO,10
+Resistencia,Corrientes,2019,NO,99
+Resistencia,Goya,2019,NO,66
+Resistencia,Paso de los libres,2019,NO,120
+Resistencia,Mercedes,2019,NO,55
+Resistencia,Iguazu,2019,NO,121
+Resistencia,Santa Ana,2019,NO,44
+Resistencia,Posadas,2019,NO,66
+Resistencia,Salta,2019,NO,89
+Trelew,Rawson,2019,NO,88
+Trelew,Comodoro Rivadavia,2019,NO,56
+Trelew,Puerto Madryn,2019,NO,98
+Trelew,Esquel,2019,NO,77
+Trelew,Peninsula Valdez,2019,NO,43
+Trelew,San Martin de los andes,2019,NO,54
+Trelew,Villa angostura,2019,NO,33
+Trelew,Villa traful,2019,NO,27
+Trelew,Chapelco,2019,NO,55
+Trelew,Las grutas,2019,NO,34
+Trelew,El bolson,2019,NO,56
+Trelew,Bariloche,2019,NO,78
+Trelew,Viedma,2019,NO,45
+Trelew,El calafate,2019,NO,78
+Trelew,Ushuaia,2019,NO,23
+Rawson,Comodoro Rivadavia,2019,NO,56
+Rawson,Puerto Madryn,2019,NO,77
+Rawson,Esquel,2019,NO,44
+Rawson,Peninsula Valdez,2019,NO,32
+Rawson,San Martin de los andes,2019,NO,54
+Rawson,Villa angostura,2019,NO,44
+Rawson,Villa traful,2019,NO,23
+Rawson,Chapelco,2019,NO,56
+Rawson,Las grutas,2019,NO,67
+Rawson,El bolson,2019,NO,65
+Rawson,Bariloche,2019,NO,98
+Rawson,Viedma,2019,NO,66
+Rawson,El calafate,2019,NO,78
+Rawson,Ushuaia,2019,NO,79
+Comodoro Rivadavia,Puerto Madryn,2019,NO,54
+Comodoro Rivadavia,Esquel,2019,NO,44
+Comodoro Rivadavia,Santa Fe Capital,2019,NO,4
+Puerto Madryn,Esquel,2019,NO,54
+Puerto Madryn,Peninsula Valdez,2019,NO,33
+Puerto Madryn,San Martin de los andes,2019,NO,23
+Puerto Madryn,Villa angostura,2019,NO,33
+Puerto Madryn,Villa traful,2019,NO,21
+Puerto Madryn,Chapelco,2019,NO,34
+Puerto Madryn,Las grutas,2019,NO,55
+Puerto Madryn,El bolson,2019,NO,43
+Puerto Madryn,Bariloche,2019,NO,67
+Puerto Madryn,Viedma,2019,NO,55
+Esquel,Peninsula Valdez,2019,NO,23
+Esquel,San Martin de los andes,2019,NO,45
+Esquel,Villa angostura,2019,NO,43
+Esquel,Villa traful,2019,NO,44
+Esquel,Chapelco,2019,NO,65
+Esquel,Las grutas,2019,NO,45
+Esquel,El bolson,2019,NO,43
+Esquel,Bariloche,2019,NO,78
+Esquel,Viedma,2019,NO,55
+Peninsula Valdez,Las grutas,2019,NO,32
+Peninsula Valdez,El bolson,2019,NO,22
+Peninsula Valdez,Bariloche,2019,NO,45
+Peninsula Valdez,Viedma,2019,NO,21
+Villa Carlos paz,Villa general Belgrano,2019,NO,87
+Villa Carlos paz,Cosquin,2019,NO,37
+Villa Carlos paz,Mina clavero,2019,NO,22
+Villa Carlos paz,Parana,2019,NO,2
+Villa Carlos paz,Colon,2019,NO,1
+Villa Carlos paz,Gualeguaychú,2019,NO,6
+Villa Carlos paz,Villa Unión,2019,NO,45
+Villa Carlos paz,San Rafael,2019,NO,12
+Villa Carlos paz,Termas de Rosario,2019,NO,23
+Villa Carlos paz,Cachi,2019,NO,2
+Villa Carlos paz,Salta,2019,NO,33
+Villa Carlos paz,San Juan,2019,NO,22
+Villa Carlos paz,Valle Barreal,2019,NO,11
+Villa Carlos paz,Merlo,2019,NO,32
+Villa Carlos paz,Santa Fe Capital,2019,NO,55
+Villa Carlos paz,San Miguel de Tucuman,2019,NO,33
+Villa general Belgrano,Cosquin,2019,NO,22
+Villa general Belgrano,Mina clavero,2019,NO,11
+Villa general Belgrano,San luis,2019,NO,21
+Villa general Belgrano,Santa Fe Capital,2019,NO,11
+Villa general Belgrano,San Miguel de Tucuman,2019,NO,12
+Cosquin,Mina clavero,2019,NO,22
+Cosquin,Termas de Rosario,2019,NO,2
+Cosquin,Cachi,2019,NO,5
+Cosquin,Salta,2019,NO,13
+Paso de los libres,Mercedes,2019,NO,22
+Paso de los libres,Parana,2019,NO,11
+Paso de los libres,Colon,2019,NO,2
+Paso de los libres,Gualeguaychú,2019,NO,5
+Paso de los libres,Concordia,2019,NO,6
+Paso de los libres,Chajari,2019,NO,8
+Mercedes,Parana,2019,NO,2
+Mercedes,Colon,2019,NO,3
+Mercedes,Gualeguaychú,2019,NO,5
+Mercedes,Villa escobar,2019,NO,11
+Mercedes,San Francisco de laish,2019,NO,22
+Mercedes,El Colorado,2019,NO,31
+Parana,Colon,2019,NO,55
+Parana,Gualeguaychú,2019,NO,43
+Parana,Concordia,2019,NO,32
+Parana,Chajari,2019,NO,11
+Parana,Gualeguay,2019,NO,22
+Parana,Santa Rosa,2019,NO,22
+Colon,Gualeguaychú,2019,NO,22
+Colon,Concordia,2019,NO,12
+Colon,Chajari,2019,NO,33
+Colon,Gualeguay,2019,NO,22
+Colon,Santa Rosa,2019,NO,33
+Gualeguaychú,Concordia,2019,NO,22
+Gualeguaychú,Chajari,2019,NO,12
+Gualeguaychú,Gualeguay,2019,NO,33
+Concordia,Chajari,2019,NO,33
+Concordia,Gualeguay,2019,NO,23
+Chajari,Gualeguay,2019,NO,22
+Chajari,Villa escobar,2019,NO,12
+Villa escobar,San Francisco de laish,2019,NO,22
+Villa escobar,El Colorado,2019,NO,12
+San Francisco de laish,El Colorado,2019,NO,33
+humauaca,Yala,2019,NO,37
+humauaca,Salinas Grandes,2019,NO,21
+Yala,Salinas Grandes,2019,NO,55
+San Rafael,Uspallata,2019,NO,23
+San Rafael,Lujan de cuyo,2019,NO,22
+Uspallata,Lujan de cuyo,2019,NO,27
+Iguazu,Santa Ana,2019,NO,33
+Iguazu,Posadas,2019,NO,45
+Iguazu,El dorado,2019,NO,22
+Santa Ana,Posadas,2019,NO,33
+Santa Ana,El dorado,2019,NO,22
+Posadas,El dorado,2019,NO,44
+San Martin de los andes,Villa angostura,2019,NO,47
+San Martin de los andes,Villa traful,2019,NO,55
+San Martin de los andes,Chapelco,2019,NO,32
+San Martin de los andes,Las grutas,2019,NO,11
+San Martin de los andes,El bolson,2019,NO,23
+San Martin de los andes,Bariloche,2019,NO,55
+San Martin de los andes,Viedma,2019,NO,32
+Villa angostura,Villa traful,2019,NO,33
+Villa angostura,Chapelco,2019,NO,21
+Villa angostura,Las grutas,2019,NO,11
+Villa angostura,El bolson,2019,NO,45
+Villa angostura,Bariloche,2019,NO,65
+Villa angostura,Viedma,2019,NO,33
+Villa traful,Chapelco,2019,NO,34
+Villa traful,Las grutas,2019,NO,11
+Villa traful,El bolson,2019,NO,22
+Villa traful,Bariloche,2019,NO,54
+Villa traful,Viedma,2019,NO,22
+Chapelco,Las grutas,2019,NO,11
+Chapelco,El bolson,2019,NO,23
+Chapelco,Bariloche,2019,NO,45
+Chapelco,Viedma,2019,NO,1
+Las grutas,El bolson,2019,NO,11
+Las grutas,Bariloche,2019,NO,45
+Las grutas,Viedma,2019,NO,22
+El bolson,Bariloche,2019,NO,67
+El bolson,Viedma,2019,NO,33
+El bolson,El calafate,2019,NO,54
+Bariloche,Viedma,2019,NO,65
+Bariloche,El calafate,2019,NO,6
+Cachi,Salta,2019,NO,21
+San Juan,Valle Barreal,2019,NO,32
+San Juan,Merlo,2019,NO,11
+Valle Barreal,Merlo,2019,NO,11
+Merlo,Trapiche,2019,NO,21
+Santa Fe Capital,Moises Ville,2019,NO,32
+Santa Fe Capital,San Carlos,2019,NO,21
+Moises Ville,San Carlos,2019,NO,23
